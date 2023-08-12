@@ -167,6 +167,11 @@ img {
     flex-direction: row;
     column-gap: 2.5rem;
  }
+ .nav__link{
+    color: var(--title-color);
+    font-family: var(--second-font);
+    font-weight: var(--font-medium);
+  }
  .nav__form{
     display: grid;
     row-gap: 1rem;
