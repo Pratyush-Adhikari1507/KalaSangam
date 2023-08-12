@@ -232,6 +232,7 @@ img {
     height: 750px;
     object-fit: cover;
     object-position: center;
+    opacity: 0.5; /*Added opacity to the image */
  }
  
  .home__shadow{
