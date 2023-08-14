@@ -194,7 +194,7 @@ img {
     height: 50px;
     background: transparent;   
     font-size: .8em;
-    color: #000000;
+    color: var(--text-color);
 }
 
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
